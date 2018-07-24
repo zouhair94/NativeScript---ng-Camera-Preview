@@ -1,0 +1,4 @@
+#Tue Jul 24 19:38:21 WEST 2018
+base.0=/Users/mac/Desktop/mobileDev/camP/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,30 @@
+{
+	"time": "Tue Jul 24 2018 20:29:20 GMT+0100 (Western European Summer Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "d9a00ad8b115072d46663a3cb6508da70540a88f73dbde704f09253ee186eae8",
+	"changesRequireBuildTime": "Tue Jul 24 2018 18:58:29 GMT+0100 (Western European Summer Time)",
+	"appFilesHashes": {
+		"/Users/mac/Desktop/mobileDev/camP/app/camperv/camperv.component.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"/Users/mac/Desktop/mobileDev/camP/app/README.md": "8c8864ad8d993bf004e65d7be1bf3715d3233bc1",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.component.html": "611325f92aae874130d34a7621cbbd3eabd48aac",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.component.js": "827080ce1aa4241e0ab2831ff97cb2cf87de0e71",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.component.ts": "afb2af1fcde98ab3cc9f1010f946240702c8f9fc",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.css": "24f81ff5c41798f4671899fdc9d85993fbf27059",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.module.js": "9a18d0a4bd5e8e7fb5efa368f08828c8b56d0608",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.module.ngfactory.d.ts": "efd772f80676035988b3a2fc2b249d24a9b13f5c",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.module.ts": "a03ed1bae1f95f6cba46ca706c5a5e1df189135d",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.routing.js": "8130a532e10204ab1229063d693bd8c25f6e90ff",
+		"/Users/mac/Desktop/mobileDev/camP/app/app.routing.ts": "820d0cf4c4b1cec220b53607f3a5d2ba2c6c60db",
+		"/Users/mac/Desktop/mobileDev/camP/app/camperv/camperv.component.html": "7b10464602842c9c294500cf8f37c513f327aa1b",
+		"/Users/mac/Desktop/mobileDev/camP/app/camperv/camperv.component.ts": "88ca58550ce20e4007cecf10bc0bf2e1d0b4d7f3",
+		"/Users/mac/Desktop/mobileDev/camP/app/main.aot.js": "82972974db53efeab4b1f1b29aaf4fe68351bd6d",
+		"/Users/mac/Desktop/mobileDev/camP/app/main.aot.ts": "ef9598ed4f3baa376c80a9ddb552f6814344d26a",
+		"/Users/mac/Desktop/mobileDev/camP/app/main.js": "3c638347666b9de65aaff3ee5515e589052f2956",
+		"/Users/mac/Desktop/mobileDev/camP/app/main.ts": "e32f3296ff0b2069b82c1bf946c6af3923a2513d",
+		"/Users/mac/Desktop/mobileDev/camP/app/package.json": "6e42976af5c4522920806359659a56bff0258086",
+		"/Users/mac/Desktop/mobileDev/camP/app/camperv/camperv.component.js": "1b09e63be2ef200d2e166d8332533dafaf36e0f3"
+	}
+}

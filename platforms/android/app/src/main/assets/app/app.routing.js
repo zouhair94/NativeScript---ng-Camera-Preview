@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var camperv_component_1 = require("./camperv/camperv.component");
+exports.routes = [
+    { path: "", component: camperv_component_1.CampervComponent },
+];
+exports.navigableComponents = [
+    camperv_component_1.CampervComponent
+];
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLnJvdXRpbmcuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJhcHAucm91dGluZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUNBLGlFQUErRDtBQUNsRCxRQUFBLE1BQU0sR0FBSTtJQUNuQixFQUFFLElBQUksRUFBRSxFQUFFLEVBQUUsU0FBUyxFQUFDLG9DQUFnQixFQUFFO0NBQzNDLENBQUM7QUFFVyxRQUFBLG1CQUFtQixHQUFHO0lBQy9CLG9DQUFnQjtDQUNuQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiXG5pbXBvcnQgeyBDYW1wZXJ2Q29tcG9uZW50IH0gZnJvbSBcIi4vY2FtcGVydi9jYW1wZXJ2LmNvbXBvbmVudFwiO1xuZXhwb3J0IGNvbnN0IHJvdXRlcyA9ICBbXG4gICAgeyBwYXRoOiBcIlwiLCBjb21wb25lbnQ6Q2FtcGVydkNvbXBvbmVudCB9LFxuXTtcblxuZXhwb3J0IGNvbnN0IG5hdmlnYWJsZUNvbXBvbmVudHMgPSBbXG4gICAgQ2FtcGVydkNvbXBvbmVudFxuXTtcblxuIl19
